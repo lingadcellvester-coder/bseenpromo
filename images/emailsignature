@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HTML BSeen Email Signature</title>
+	<style type="text/css">
+		body {
+			margin: 0;
+		}
+		table {
+			border-spacing: 0;
+		}
+		td {
+			padding: 0;
+		}
+		img {
+			border: 0;
+		}
+		.wrapper {
 
+		}
+		.main {
+
+		}
+		@import url(''); 
+	</style>
+</head>
+<body>
+
+
+<table style="width: 100%;max-width: 600px;background-color: #ffffff;padding: 0px 8px;">
+    <style>
+        h1, h3, p, a {color: #000000;font-family: "Open Sans", sans-serif, serif;} h1 {font-size: 2em;line-height: 1em;} h3 {font-size: 1em;line-height: 1em;} h1, h3, p {margin: 0px;} h3, p, a {font-weight: 400;} a {text-decoration: none;} td {padding: 5px;} p, a {font-size: 16px;line-height: 9px;} .underline {border-bottom: solid 3px #000000; } img {width: 100%;margin: 1px 0px;}
+    </style>
+    <tbody>
+
+        <tr>
+            <td>
+                <h3><b>E:</b> design@bseen.com.au | <b>W:</b> bseen.com.au | <b>T:</b> 07 3245 7403</h3>
+            </td>
+        </tr>
+
+		<tr>
+			<td>
+				<img src='https://github.com/lingadcellvester-coder/bseenpromo/blob/main/images/BSeen-wearemoving-emailsignatureV3.gif' border='0' alt='BSeen-wearemoving-emailsignature'>
+				
+			</td>
+		</tr>
+
+    </tbody>
+    <tfoot>
+        <tr><td><p>Follow us on <a href="#">Facebook</a> and <a href="#">Instagram</a>to keep up to date with our latest offers!</p></td></tr></tfoot>
+</table>
+
+
+
+</body>
+</html>
